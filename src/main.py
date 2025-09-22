@@ -34,7 +34,6 @@ async def predict_wine(wine_features: WineData):
     Predict wine class based on chemical analysis features.
     """
     try:
-        # Create feature array in the same order as the wine dataset
         features = [[
             wine_features.alcohol,
             wine_features.malic_acid, 
