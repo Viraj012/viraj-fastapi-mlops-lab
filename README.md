@@ -1,7 +1,7 @@
 # FastAPI MLOps Lab - Viraj's Wine Classification API
 
 ## Student Information
-- **Name**: Viraj
+- **Name**: Vishal Singh Rajpurohit
 - **Assignment**: FastAPI MLOps Lab - Wine Classification API
 - **Course**: MLOps
 - **Repository**: https://github.com/Viraj012/viraj-fastapi-mlops-lab
