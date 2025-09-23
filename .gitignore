@@ -28,6 +28,3 @@ venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
-# Model files (we'll train our own)
-*.pkl
